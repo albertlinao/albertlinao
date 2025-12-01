@@ -10,8 +10,10 @@
 - Create training, evaluation, and onboarding of new developers.
 - Create technical worksheets, examinations, and document templates.
 - Perform the role of Product Owner and Scrum Master.
-- Create metrics and report team productivity.
+- Create metrics and reports on team productivity.
 - Lead meetings; daily standup, sprint planning, sprint review, and team retrospective.
+
+To summarize my role, I ensure that projects are done correctly, and the team can do their role as easily as possible.
 
 <!--
 **albertlinao/albertlinao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
