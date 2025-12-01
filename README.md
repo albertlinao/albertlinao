@@ -3,7 +3,7 @@
 - My current stack is Next.js, and Supabase.
 
 ### Revenue Generating Projects
-- I am the Product Owner of [formsly.io](https://formsly.io), a web app for recruitment teams that standardizes their work using our heavily opinionated, no config workflows. Formsly ensures that teams don't have to change settings.
+- I am the Product Owner of [formsly.io](https://formsly.io), a web app for recruitment teams that standardizes their work using our heavily opinionated workflows. We ensure that teams do not need to modify anything in the workflow, to be able to efficiently perform recruitment tasks, and analyze the team's productivity on the app.
 - The web app has processed over 10,000 applicants. And has been used to successfully hire over 1,000 employees.
 
 ### What I handle in projects:
