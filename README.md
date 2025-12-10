@@ -1,5 +1,6 @@
 ### Hi there, I'm Albert 👋
 - I manage teams for work and code to relax.
+- I design, build, and manage internal productivity tools for teams.
 - My current stack is Next.js, and Supabase.
 
 ### Revenue Generating Projects
@@ -13,7 +14,7 @@
 - Create metrics and reports on team productivity.
 - Lead meetings; daily standup, sprint planning, sprint review, and team retrospective.
 
-To summarize my role, I ensure that projects are done correctly, and the team can do their role as easily as possible.
+To summarize my role, I ensure that projects are done correctly, and the team can do their roles as effectively as possible.
 
 <!--
 **albertlinao/albertlinao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
