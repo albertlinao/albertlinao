@@ -4,18 +4,18 @@ I manage teams professionally and build software in my free time. I design, buil
 ### Projects
 formsly.io
 Product Owner of a recruitment platform that standardizes hiring through opinionated, fixed workflows—eliminating the need for customization while enabling efficient execution and productivity analysis.
-	•	10,000+ applicants processed
-	•	1,000+ successful hires
+- 10,000+ applicants processed
+- 1,000+ successful hires
 
 keep.ph
 Currently building a service that receives, scans, and routes physical mail for individuals and businesses. Keep also provides incorporation services and virtual office addresses.
 
 ### Responsibilities
-	•	Design and deliver training, onboarding, and performance evaluations
-	•	Create technical worksheets, assessments, and document templates
-	•	Act as Product Owner and Scrum Master
-	•	Facilitate standups, sprint planning, reviews, and retrospectives
-	•	Define metrics and generate productivity reports
+- Design and deliver training, onboarding, and performance evaluations
+- Create technical worksheets, assessments, and document templates
+- Act as Product Owner and Scrum Master
+- Facilitate standups, sprint planning, reviews, and retrospectives
+- Define metrics and generate productivity reports
 
 ### Summary
 I ensure projects are delivered on time and correctly by enabling teams to work efficiently, clearly, and at their highest potential.
