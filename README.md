@@ -14,11 +14,11 @@ Currently building a service that receives, scans, and routes physical mail for 
 - Design and deliver training, onboarding, and performance evaluations
 - Create technical worksheets, assessments, and document templates
 - Act as Product Owner and Scrum Master
-- Facilitate standups, sprint planning, reviews, and retrospectives
-- Define metrics and generate productivity reports
+- Lead standups, sprint planning, reviews, and retrospectives
+- Define productivity metrics and generate reports
 
 ### Summary
-I ensure projects are delivered on time and correctly by enabling teams to work efficiently, clearly, and at their highest potential.
+I ensure projects are done on time and correctly, where each team member can do their role as effectively as possible.
 
 <!--
 ### Hi there, I'm Albert 👋
