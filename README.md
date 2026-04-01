@@ -1,5 +1,5 @@
 ### Hi, I’m Albert 👋
-I manage teams professionally and build software in my free time. I design, build, and maintain internal productivity tools, primarily using Next.js and Supabase.
+I manage teams for work and build apps in my free time. I design, build, and maintain internal productivity tools, primarily using Next.js and Supabase.
 
 ### Projects
 formsly.io
